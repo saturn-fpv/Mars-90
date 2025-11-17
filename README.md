@@ -4,7 +4,10 @@
 
 The **Mars-90** is a lightweight and durable **90 mm wheelbase unibody frame** designed for high-performance 2-inch FPV builds. It provides excellent rigidity and smooth flight characteristics.
 
-![Mars-90 Frame](/images/Mars-90.jpg)
+<p align="center">
+  <img src="/images/Mars-90.jpg" width="40%">
+  <img src="/images/Mars-90-flywoo.jpg" width="40%">
+</p>
 
 <p align="center">
   <img src="/images/frame_photo.jpg" width="40%">
