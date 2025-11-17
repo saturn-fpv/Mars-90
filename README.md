@@ -2,10 +2,14 @@
 
 [![CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
 
-The **Mars-90** is a lightweight and durable **90 mm wheelbase unibody frame** designed for high-performance 2-inch FPV builds.  
-It provides excellent rigidity and smooth flight characteristics.
+The **Mars-90** is a lightweight and durable **90 mm wheelbase unibody frame** designed for high-performance 2-inch FPV builds. It provides excellent rigidity and smooth flight characteristics.
 
 ![Mars-90 Frame](/images/Mars-90.jpg)
+
+<p align="center">
+  <img src="/images/frame_photo.jpg" width="40%">
+  <img src="/images/example_build.jpg" width="40%">
+</p>
 
 ---
 
@@ -26,8 +30,7 @@ It provides excellent rigidity and smooth flight characteristics.
 ## 🔧 Build Specifications & Recommendations
 
 ### **Frame Thickness**
-- **2 mm carbon fiber**  
-  Balanced between strength and weight, ideal for high-KV micro motors.
+- **2 mm carbon fiber:** Balanced between strength and weight, ideal for high-KV micro motors.
 
 ### **Motor Recommendations**
 - **1002, 1003, 1102, 1103, 1202.5 motors**  
