@@ -18,7 +18,7 @@ The **Mars-90** is a lightweight and durable **90 mm wheelbase unibody frame** d
 
 ## ✨ Features
 - **Unibody 2" frame** for maximum rigidity and reduced vibrations  
-- **Optimized geometry** with truss-stlye reinforced arms
+- **Optimized geometry** with truss-style reinforced arms
 - **Central mounting platform** for clean AIO or stack installation
 - **Octa-shape base** rigid and enough space for 90° USB-C or Micro-USB ports
 - **90 mm wheelbase** for agile indoor/outdoor flying  
